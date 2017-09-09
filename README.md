@@ -8,3 +8,6 @@ We decided to create new original game, where you pick up some score points and 
 Wiki: https://github.com/renzotom/Walogom-Carvings/wiki
 Discord (here you can officialy join our team): https://discord.gg/ds3Czvz
 Or what to do list: https://trello.com/walogomcarvingsteam/
+
+ # Join the team 
+ Do you want to collaborate? Join the project at https://crowdforge.io/projects/282
